@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("aq").Main()
+    __import__("aw").Main()
 except Exception as e:
     exit(str(e))
